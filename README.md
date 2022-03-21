@@ -1,5 +1,5 @@
 # SDL2-Premake-Template
-A premake template to help you create SDL2 applications quickly.
+SDL2 Premake Template
 
 ## Usage
 Clone this repository and run:
