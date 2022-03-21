@@ -30,7 +30,7 @@ project "SDLGame"
     filter "system:windows"
         system "Windows"
 
-        includedirs { "vendor/SDL2/include/" }
-        libdirs { "vendor/SDL2/lib/x64/" }
+        includedirs { <SDL2 INCLUDE PATH> }
+        libdirs { <SDL2 x64 LIB PATH> }
 
         links { "SDL2main", "SDL2" }
