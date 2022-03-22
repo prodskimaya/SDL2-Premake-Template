@@ -2,7 +2,8 @@
 SDL2 Premake Template
 
 ## Usage
-Clone this repository and run:
+Clone this repository and add your SDL2 directories the premake5.lua file.
+Next run:
 ``` 
 premake5 vs2019
 ```
